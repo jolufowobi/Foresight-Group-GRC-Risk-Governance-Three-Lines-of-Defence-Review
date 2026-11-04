@@ -1,8 +1,12 @@
-# Foresight Group | GRC Risk Governance & Three Lines of Defence Review
+# 🏛️ Foresight Group | GRC Risk Governance & Three Lines of Defence Review
 
-## 1. Executive Summary
+> Review of risk governance, RCSA, risk appetite and independent assurance under the Three Lines of Defence model, applied to cybersecurity and third-party risk.
 
-This case study examines the risk governance arrangements of Foresight Group Holdings Limited, an investment management business, with a focus on the Three Lines of Defence model and its application to cybersecurity and enterprise risk management.
+---
+
+## 1. 📌 Executive Summary
+
+This review examines the risk governance arrangements of Foresight Group Holdings Limited, an investment management business, with a focus on the Three Lines of Defence model and its application to cybersecurity and enterprise risk management.
 
 The review considers how responsibilities are distributed across operational business functions, Risk and Compliance, and independent assurance. It also examines the role of the Board and Executive Committee in overseeing and managing the organisation's risk framework.
 
@@ -10,7 +14,9 @@ Particular attention is given to risk ownership, the Risk and Control Self-Asses
 
 The analysis also considers how these governance arrangements support the identification, assessment, monitoring and oversight of information security risks.
 
-## 2. Organisational Context
+---
+
+## 2. 🏢 Organisational Context
 
 Foresight Group Holdings Limited is an investment management business with activities spanning:
 
@@ -31,11 +37,13 @@ The nature of these activities exposes an investment management organisation to 
 
 The organisation's business activities provide important context for understanding its risk governance arrangements. Risks arising from investment operations, information systems, external service providers and regulatory obligations require defined ownership, oversight and appropriate assurance.
 
-## 3. The Three Lines of Defence Model
+---
+
+## 3. 🏛️ The Three Lines of Defence Model
 
 The Three Lines of Defence model establishes distinct responsibilities for managing risks, providing oversight and delivering independent assurance.
 
-The model helps an organisation maintain accountability while ensuring that risk management is not treated as the responsibility of a single department.
+The model keeps accountability clear and stops risk management from sitting with a single department.
 
 ### 3.1 First Line: Business and Operational Functions
 
@@ -43,7 +51,7 @@ The model helps an organisation maintain accountability while ensuring that risk
 
 The first line consists of the business departments and operational functions responsible for carrying out the organisation's daily activities.
 
-The case-study material identifies responsibilities including:
+Foresight's reported framework assigns responsibilities including:
 
 - Maintaining an adequate control environment.
 - Following established risk policies and procedures.
@@ -74,7 +82,7 @@ The department does not transfer responsibility for these risks to the GRC or Ri
 
 The second line provides specialist risk and compliance oversight to support the organisation's risk management framework.
 
-The case-study material identifies responsibilities including:
+Foresight's reported framework assigns responsibilities including:
 
 - Implementing and monitoring risk policies.
 - Identifying, scoring and prioritising risks with input from the first line.
@@ -107,7 +115,7 @@ The second line provides oversight and challenge, but does not automatically bec
 
 The third line provides independent assurance over the adequacy and effectiveness of the organisation's risk management arrangements.
 
-The Foresight case-study material identifies independent assurance responsibilities that include:
+Foresight's reported framework identifies independent assurance responsibilities that include:
 
 - Verifying the adequacy of the Group Risk Framework.
 - Independently challenging the adequacy and effectiveness of actions taken by the Risk Committee.
@@ -129,7 +137,9 @@ This may involve:
 
 The third line does not take over responsibility for managing risks or operating controls. Its role is to provide independent assurance.
 
-## 4. Comparison of the Three Lines
+---
+
+## 4. ⚖️ Comparison of the Three Lines
 
 | Area | First Line | Second Line | Third Line |
 |---|---|---|---|
@@ -148,9 +158,11 @@ The third line does not take over responsibility for managing risks or operating
 
 The Three Lines model describes different responsibilities. It does not necessarily require three entirely separate departments in every organisation.
 
-## 5. Risk Governance and Accountability
+---
 
-The case-study material identifies the Board and Executive Committee as important components of Foresight's risk governance structure.
+## 5. 👥 Risk Governance and Accountability
+
+Foresight's reported framework identifies the Board and Executive Committee as core parts of Foresight's risk governance structure.
 
 ### 5.1 Board of Directors
 
@@ -180,9 +192,11 @@ The Risk function supports the organisation's risk management arrangements throu
 
 The Risk function supports management decisions by providing visibility into the organisation's risk exposure and the status of relevant risk management activities.
 
-## 6. Risk Management Framework
+---
 
-The case-study material highlights several components of Foresight's risk management framework.
+## 6. 📋 Risk Management Framework
+
+Foresight's reported risk management framework includes the following components.
 
 ### 6.1 Risk and Control Self-Assessment (RCSA)
 
@@ -243,11 +257,13 @@ Risk escalation ensures that significant risks, incidents and breaches are commu
 
 The Risk function supports the aggregation and reporting of risk information, while business functions remain responsible for identifying and reporting risks arising from their operations.
 
-## 7. Risk Appetite and Governance
+---
+
+## 7. 🎚️ Risk Appetite and Governance
 
 Foresight's Risk Appetite Statement sets out the types and levels of risk the Group is willing to accept or avoid while pursuing its business objectives.
 
-The case-study material indicates that:
+Foresight's reported framework indicates that:
 
 - Risk appetite provides direction for risk-taking and risk management decisions.
 - The Risk Appetite Statement is reviewed annually.
@@ -263,9 +279,11 @@ However, it may have a very low tolerance for unauthorised disclosure of confide
 
 Where cybersecurity exposure exceeds the organisation's approved risk appetite, management may need to strengthen controls, introduce additional treatment measures or escalate the matter for a risk decision.
 
-## 8. Cybersecurity Risk Considerations
+---
 
-The case-study material highlights several areas where cybersecurity risk management is relevant to Foresight's operations.
+## 8. 🔐 Cybersecurity Risk Considerations
+
+Foresight's reported framework points to several areas where cybersecurity risk management applies to its operations.
 
 ### 8.1 Information Security and Data Protection
 
@@ -277,7 +295,7 @@ These measures support the protection of information against unauthorised access
 
 ### 8.2 Penetration Testing
 
-The case study identifies the use of authorised security professionals to simulate attacks as a way of testing cyber defences.
+The framework identifies the use of authorised security professionals to simulate attacks as a way of testing cyber defences.
 
 This describes penetration testing.
 
@@ -291,7 +309,7 @@ External service providers can introduce cybersecurity exposure where they have 
 
 A supplier with inadequate security arrangements may become an entry point for attackers or contribute to a data breach.
 
-The case-study material identifies detailed IT security assessments as part of third-party due diligence.
+The framework identifies detailed IT security assessments as part of third-party due diligence.
 
 These assessments help evaluate whether a supplier's security arrangements are appropriate for the services it provides and the level of access it requires.
 
@@ -313,13 +331,15 @@ Third-party risk should also be monitored throughout the supplier relationship, 
 
 ### 8.4 Emerging Technology Risk
 
-The case-study material identifies the use of simple AI tools to improve phishing email quality as an emerging cybersecurity concern.
+The framework identifies the use of simple AI tools to improve phishing email quality as an emerging cybersecurity concern.
 
 AI-enabled phishing can make fraudulent messages more convincing and harder for employees to recognise.
 
 This increases the importance of employee awareness, email security controls, reporting procedures and ongoing threat monitoring.
 
-## 9. Practical Application: Third-Party Cybersecurity Risk Across the Three Lines
+---
+
+## 9. 🤝 Practical Application: Third-Party Cybersecurity Risk Across the Three Lines
 
 Consider a scenario in which an external technology provider has inadequate access controls and provides services to Foresight.
 
@@ -349,7 +369,9 @@ However, coordinating the assessment or maintaining the risk register does not a
 
 Risk ownership should remain with the appropriate business stakeholder.
 
-## 10. Key GRC Observations
+---
+
+## 10. ✅ Key GRC Observations
 
 The review highlights several important governance and risk management principles.
 
@@ -381,9 +403,11 @@ Supplier due diligence is important because external providers may introduce cyb
 
 The existence of a policy or control description is not sufficient assurance. Appropriate evidence and independent assessment may be required to determine whether controls operate as intended.
 
-## 11. Practitioner notes
+---
 
-This case study demonstrates how I analyse an organisation's risk governance structure and connect its stated framework to practical cybersecurity and GRC responsibilities.
+## 11. 💡 Practitioner notes
+
+This review shows how I analyse an organisation's risk governance structure and connect its stated framework to practical cybersecurity and GRC responsibilities.
 
 I assessed the distinction between operational risk ownership, second-line oversight and third-line independent assurance.
 
@@ -391,17 +415,30 @@ The review also demonstrates how risk appetite, RCSA, risk reporting, escalation
 
 The practical application connects these responsibilities to a third-party cybersecurity risk scenario, showing how business functions, Risk and Compliance, and independent assurance contribute to managing the same risk from different perspectives.
 
-## 12. Assessment Basis and Scope
+---
 
-This assessment is based on the Foresight Group information and reported risk governance arrangements examined in the case-study source material.
+## 12. 📎 Assessment Basis and Scope
+
+**Independent analysis based on publicly available information. Not commissioned by, or affiliated with, Foresight Group.**
+
+This assessment is based on Foresight Group's reported risk governance arrangements.
 
 I reviewed the organisation's risk management structure and examined how its governance framework applies to operational risk ownership, oversight, risk reporting and independent assurance.
 
 The cybersecurity scenarios and practical examples included in this assessment are analytical applications of the reported framework. They illustrate how the identified governance responsibilities may apply to information security and third-party risk.
 
-This assessment does not represent an engagement commissioned by Foresight Group, an independent audit or verification of its actual security controls.
+It does not verify Foresight Group's actual security controls.
 
-## 13. Tools and Reference Areas
+---
+
+## 📚 Sources
+
+- [ADD: source document, e.g., Foresight Group Holdings Limited Annual Report and Accounts, year, section on Risk Management]
+- [ADD: any other public source used]
+
+---
+
+## 13. 🧰 Frameworks and Concepts
 
 - Governance, Risk and Compliance (GRC).
 - Three Lines of Defence Model.
