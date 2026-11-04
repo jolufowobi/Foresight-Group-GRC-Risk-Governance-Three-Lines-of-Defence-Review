@@ -381,7 +381,7 @@ Supplier due diligence is important because external providers may introduce cyb
 
 The existence of a policy or control description is not sufficient assurance. Appropriate evidence and independent assessment may be required to determine whether controls operate as intended.
 
-## 11. Learning and Professional Application
+## 11. Practitioner notes
 
 This case study demonstrates how I analyse an organisation's risk governance structure and connect its stated framework to practical cybersecurity and GRC responsibilities.
 
