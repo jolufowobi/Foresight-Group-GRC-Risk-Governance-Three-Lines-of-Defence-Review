@@ -1,4 +1,4 @@
-# 🏛️ Foresight Group | GRC Risk Governance & Three Lines of Defence Review
+# 🏛️ GRC Risk Governance & Three Lines of Defence Review | Foresight Group
 
 > Review of risk governance, RCSA, risk appetite and independent assurance under the Three Lines of Defence model, applied to cybersecurity and third-party risk.
 
