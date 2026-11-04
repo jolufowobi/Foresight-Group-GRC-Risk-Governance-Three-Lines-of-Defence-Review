@@ -433,7 +433,7 @@ It does not verify Foresight Group's actual security controls.
 
 ## 📚 Sources
 
-- Foresight Group risk report (risk_report_foresight.pdf): the primary source for the risk governance, RCSA, risk appetite and cybersecurity details in this review
+- Foresight Group risk report PDF: the primary source for the risk governance, RCSA, risk appetite and cybersecurity details in this review
 - Foresight Group website: [foresight.group](https://foresight.group/)
 - Foresight Group Reports & Releases: [foresight.group/shareholders/reports-releases](https://foresight.group/shareholders/reports-releases/)
 ---
